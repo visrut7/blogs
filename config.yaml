@@ -1,15 +1,14 @@
-baseURL: https://setsevireon.github.io/
+baseURL: https://visrut7.github.io/
 languageCode: en-us
 theme: photophobia
 
 DefaultContentLanguage: en
 SectionPagesMenu: main
 Paginate: 3
-googleAnalytics: ""
 
 languages:
   en:
-    title: Latim Jibber Jabber
+    title: Blog Builder
 weight: 1
 
 contentDir: content/en
@@ -21,8 +20,8 @@ filename: sitemap.xml
 
 params:
   favicon: null
-site_logo: null
-description: Pellentesque commodo dolor leo.
+site_logo: /blog-builder.png
+description: Blog Builder | Just Write It!!!!!
 recent_posts_number: 10
 
 markup:
