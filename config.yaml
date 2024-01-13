@@ -20,7 +20,7 @@ filename: sitemap.xml
 
 params:
   favicon: null
-site_logo: /blog-builder.png
+  site_logo: /blog-builder.png
 description: Blog Builder | Just Write It!!!!!
 recent_posts_number: 10
 
