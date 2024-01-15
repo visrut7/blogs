@@ -41,4 +41,20 @@
       </a>
     </footer>
   {{ end }}
+
+
+  <script>
+    document.querySelectorAll('p').forEach(p => {
+        if (p.querySelector('img')) {
+            p.classList.add('p-with-img');
+        }
+    });
+  </script>
+
+  <style>
+    .p-with-img {
+      display: flex;
+      justify-content: center;
+    }
+  </style>
 {{ end }}
